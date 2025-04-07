@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Chicago Traffic Crash Analysis: Patterns, Causes, and Insights
 
 This comprehensive analysis explores traffic crash data from Chicago to identify patterns, contributing factors, and potential areas for intervention. The study applies big data analytics techniques to understand crash dynamics, temporal patterns, and primary contributing factors that lead to traffic accidents in the city.
