@@ -1,7 +1,7 @@
 # Chicago Traffic Crash Analysis
 
 **Key Findings Summary**
-The analysis of Chicago traffic crash data reveals critical insights into patterns, contributing factors, and predictive indicators of crash severity. Temporal trends show pronounced crash frequency during evening rush hours (3–7 PM) and weekends, with seasonal variations linked to weather conditions. The top contributing causes include "FAILING TO YIELD RIGHT-OF-WAY" and "DISREGARDING TRAFFIC SIGNALS," while environmental factors like low lighting and wet road surfaces exacerbate risks. A Random Forest model achieved 85% accuracy in predicting crash severity, with key predictors being posted speed limits, lighting conditions, and traffic device functionality. These findings underscore the need for targeted interventions in high-risk zones and conditions.
+The analysis of Chicago traffic crash data reveals critical insights into patterns, contributing factors, and predictive indicators of crash severity. Temporal trends show pronounced crash frequency during evening rush hours (3–7 PM) and weekends, with seasonal variations linked to weather conditions. The top contributing causes include "FAILING TO YIELD RIGHT-OF-WAY" and "DISREGARDING TRAFFIC SIGNALS," while environmental factors like low lighting and wet road surfaces exacerbate risks. A Random Forest model achieved 70% accuracy in predicting crash severity, with key predictors being posted speed limits, lighting conditions, and traffic device functionality. These findings underscore the need for targeted interventions in high-risk zones and conditions.
 
 ---
 
